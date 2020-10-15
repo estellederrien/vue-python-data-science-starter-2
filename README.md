@@ -17,8 +17,10 @@ This is a new 2020 Vue.js + Python Flask Backend Starter for real world mathemat
 
 You can deploy it automatically to heroku by pushing only one simple button, no need to set up anything.
 Takes full advantage of back end and front end hot reloading .
-Please allow a few days for the demo to be on with more L.P s examples.
-My other goal is to eventually use drag n drop , to manipulate the PULP linear solver; Also, make the whole app dynamic and generic like 'Tableau', but it requires a lot of work and abstractions abilities. The commercial version differs and is available there : https://solvgraph.herokuapp.com/ 
+
+## Commercial international version
+![Screenshot](logo.png)
+The commercial version differs A LOT and is available there : https://solvgraph.herokuapp.com/ 
 
 ## Status
 In dev, started 08-05-2020
