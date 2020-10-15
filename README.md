@@ -18,9 +18,9 @@ This is a new 2020 Vue.js + Python Flask Backend Starter for real world mathemat
 You can deploy it automatically to heroku by pushing only one simple button, no need to set up anything.
 Takes full advantage of back end and front end hot reloading .
 
-## Commercial international version
-![Screenshot](logo.png)
-The commercial version differs A LOT and is available there : https://solvgraph.herokuapp.com/ 
+## Full Commercial version
+![Screenshot](logo.png) <br>
+The full commercial version is available there : https://solvgraph.herokuapp.com/ 
 
 ## Status
 In dev, started 08-05-2020
