@@ -13,14 +13,18 @@ https://vue-python-data-science-starte.herokuapp.com/
 ## Desc
 This is a new 2020 Vue.js + Python Flask Backend Starter for real world mathematical linear optimizations and various data science apps . <br><br>
 
-<b>Graphically Optimize your industrials profits, your portfolios or your blends, using a full stack app plugged to the pulp linear solver. Portfolio management, healthcare, transport,  and much more coming , even binPacking (I hope)... </b><br><br>
-
 You can deploy it automatically to heroku by pushing only one simple button, no need to set up anything.
 Takes full advantage of back end and front end hot reloading .
 
 ## Full Commercial version
 ![Screenshot](logo.png) <br>
+
+<b>Graphically Optimize your industrials profits, your portfolios or your blends, using a full stack app plugged to the pulp linear solver. Portfolio management, healthcare, transport,  and much more coming , even binPacking (I hope)... </b><br>
+
 Follow The full commercial version developpement there (Often updated) : https://solvgraph.herokuapp.com/ 
+
+
+
 
 ## Status
 In dev, started 08-05-2020
