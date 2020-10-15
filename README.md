@@ -19,7 +19,7 @@ Takes full advantage of back end and front end hot reloading .
 ## Full Commercial version
 ![Screenshot](logo.png) <br>
 
-<b>Graphically Optimize your industrials profits, your portfolios or your blends, using a full stack app plugged to the pulp linear solver. Portfolio management, healthcare, transport,  and much more coming , even binPacking (I hope)... </b><br>
+<b>Graphically Optimize your industrials profits, your portfolios or your blends, using a full stack app plugged to the pulp and/or gurobi linear solvers. Portfolio management, healthcare, transport,  and much more coming , even binPacking (I hope)... </b><br>
 
 Follow The full commercial version developpement there (Often updated) : https://solvgraph.herokuapp.com/ 
 
