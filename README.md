@@ -21,7 +21,7 @@ Takes full advantage of back end and front end hot reloading .
 
 <b>Graphically Optimize your industrials profits, your portfolios or your blends, using a full stack app plugged to the pulp and/or gurobi linear solvers. Portfolio management, healthcare, transport,  and much more coming , even binPacking ... </b><br>
 
-Using graphicals linear templates make it easy and cool to manage your factory production!<br>
+Using graphicals linear templates makes it easy and cool to manage your factory production!<br>
 
 Follow The full commercial version developpement there (Often updated) : https://solvgraph.herokuapp.com/ 
 
