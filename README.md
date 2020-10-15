@@ -20,7 +20,7 @@ Takes full advantage of back end and front end hot reloading .
 
 ## Full Commercial version
 ![Screenshot](logo.png) <br>
-The full commercial version is available there : https://solvgraph.herokuapp.com/ 
+Follow The full commercial version developpement there (Often updated) : https://solvgraph.herokuapp.com/ 
 
 ## Status
 In dev, started 08-05-2020
