@@ -24,6 +24,10 @@ My other goal is to eventually use drag n drop , to manipulate the PULP linear s
 In dev, started 08-05-2020
 
 ## Latests news
+10-15-2020 : All Code including the login-register code from Orange Petal, 
+the India based developper, is currently mooved to the SOLVGRAPH private commercial depot . 
+What's available there is just the basical front end-back end system ... For free ..
+
 10-05-2020 : Added Multilanguage support in 3 hours using this vue.js module : https://www.npmjs.com/package/vue-translate-plugin 
 
 09-28-2020 , The commercial version is available there :  https://solvgraph.herokuapp.com/ ,Please allow from 2 months to 2 years of developpement for a really nice app... Devs steps are adding a great flask middleware, IP and SESSIONS controlled DEMO limited times, making it easy and good looking, adding MonGoDb, and users sessions , Cruds, drag and drop, Google Login, multiples regressions cases , Multiple languages, and way much more . I'm looking to collab with 1 or more high level linear solver Dev too, please call.
