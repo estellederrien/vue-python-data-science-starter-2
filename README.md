@@ -4,7 +4,7 @@
 
 ## Demo ( Daily actualized)
 
-https://vue-python-data-science-starte.herokuapp.com/
+https://vue-python-starter.herokuapp.com/
 
 <a href="https://heroku.com/deploy">
   <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
