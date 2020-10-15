@@ -1,0 +1,7 @@
+{
+    "name": "Vue.js Python Pulp linear solver starter",
+    "description": "A full stack linear solver app starter",
+    "repository": "https://github.com/nicolas15000/vue-python-data-science-starter",
+    "logo": "https://raw.githubusercontent.com/firefly-iii/firefly-iii/main/public/mstile-150x150.png",
+    "keywords": ["python", "pulp", "vue", "data science"]
+}
