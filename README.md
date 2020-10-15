@@ -2,7 +2,7 @@
 ![Screenshot](screenshot.jpg)
 
 
-## Demo ( Daily actualized)
+## Demo 
 
 https://vue-python-starter.herokuapp.com/
 
@@ -16,7 +16,7 @@ This is a new 2020 Vue.js + Python Flask Backend Starter for real world mathemat
 You can deploy it automatically to heroku by pushing only one simple button, no need to set up anything.
 Takes full advantage of back end and front end hot reloading .
 
-## Full Commercial version
+## Full Commercial multilingual version : SolvGraph
 ![Screenshot](logo.png) <br>
 
 <b>Graphically Optimize your industrials profits, your portfolios or your blends, using a full stack app plugged to the pulp and/or gurobi linear solvers. Portfolio management, healthcare, transport,  and much more coming , even binPacking (I hope)... </b><br>
