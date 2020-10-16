@@ -56,20 +56,23 @@ What's available there is just the basical front end-back end system ... For fre
 
 ## Others languages :
 
-Optimisez vos bénéfices industriels, optimisez vos mélanges avec une application full stack connectée au solveur linéaire pulp ... <br>
- Optimisation de Mélanges alimentaires, portefeuilles boursier,  Remplissage de camions, soins de santé, problème du voyageur de commerce, Optimisation de production industrielle,transport et bien plus encore..<br><br>
-Vous pouvez le déployer automatiquement sur heroku en appuyant sur un seul bouton, pas besoin de configurer quoi que ce soit. Tirez pleinement parti du rechargement à chaud du back-end et du front-end. Veuillez patienter quelques jours pour que la démo démarre avec plus d'exemples de L.P. Mon autre objectif est d'utiliser éventuellement le glisser-déposer, pour manipuler le solveur linéaire PULP; De plus, rendez toute l'application dynamique et générique comme «Tableau», mais c'est beaucoup de travail et de capacités d'abstraction.<br><br>
-
-Optimice sus ganancias industriales, optimice sus mezclas con una aplicación de pila completa conectada al solucionador de pulpa lineal ...<br><br>
 这是我针对数据科学应用程序和现实世界中的数学线性优化设计的新的2020 Vue.js + Python Flask后端启动器。
 
 使用插入纸浆线性求解器的完整堆栈应用程序，以图形方式优化您的工业利润，投资组合或混合物。项目组合管理，医疗保健，运输，以及更多其他东西，甚至包括binPacking（我希望）...
 
 您只需按一个简单的按钮即可将其自动部署到heroku，无需进行任何设置。充分利用后端和前端热重装的优势。请花几天时间进行演示，并提供更多L.P的示例。我的另一个目标是最终使用drag n drop来操纵PULP线性求解器。同样，使整个应用程序像“ Tableau”一样具有动态性和通用性，但是它需要大量的工作和抽象能力。...<br><br>
+
 यह मेरा नया 2020 Vue.js + पायथन फ्लास्क बैकएंड स्टार्टर है, जो डेटा साइंस ऐप के लिए है, और वास्तविक दुनिया मैथ्स रैखिक परिवेदनाएं हैं।
 
 
 ग्रेप लीनियर सॉलवर में प्लग किए गए एक पूर्ण स्टैक ऐप का उपयोग करके अपने औद्योगिक मुनाफे, अपने पोर्टफोलियो या अपने मिश्रणों का रेखांकन करें। पोर्टफोलियो मैनेजमेंट, हेल्थकेयर, ट्रांसपोर्ट, और भी बहुत कुछ, यहां तक ​​कि बिनपैकिंग (मुझे आशा है) <br><br>
+
+Optimisez vos bénéfices industriels, optimisez vos mélanges avec une application full stack connectée au solveur linéaire pulp ... <br>
+ Optimisation de Mélanges alimentaires, portefeuilles boursier,  Remplissage de camions, soins de santé, problème du voyageur de commerce, Optimisation de production industrielle,transport et bien plus encore..<br><br>
+Vous pouvez le déployer automatiquement sur heroku en appuyant sur un seul bouton, pas besoin de configurer quoi que ce soit. Tirez pleinement parti du rechargement à chaud du back-end et du front-end. Veuillez patienter quelques jours pour que la démo démarre avec plus d'exemples de L.P. Mon autre objectif est d'utiliser éventuellement le glisser-déposer, pour manipuler le solveur linéaire PULP; De plus, rendez toute l'application dynamique et générique comme «Tableau», mais c'est beaucoup de travail et de capacités d'abstraction.<br><br>
+
+Optimice sus ganancias industriales, optimice sus mezclas con una aplicación de pila completa conectada al solucionador de pulpa lineal ...<br><br>
+
 
 Dies ist mein neuer 2020 Vue.js + Python Flask Backend Starter für Data Science-Apps und reale mathematische lineare Optimierungen.
 
