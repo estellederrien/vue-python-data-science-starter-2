@@ -19,7 +19,7 @@ Takes full advantage of back end and front end hot reloading .
 ## Full Commercial multilingual version : SolvGraph
 ![Screenshot](logo.png) <br>
 
-<b>Graphically Optimize your industrials profits, your portfolios or your blends, using a full stack app plugged to the pulp and/or gurobi linear solvers. Portfolio management, healthcare, transport,  and much more coming , even binPacking ... </b><br>
+<b>Graphically Optimize your industrials profits, your portfolios or your blends, using Solvgraph, an app plugged to the pulp and/or gurobi linear solvers. Portfolio management, healthcare, transport,  and much more coming , even binPacking ... </b><br>
 
 Using graphicals linear templates makes it easy and cool to manage your factory production!<br>
 
