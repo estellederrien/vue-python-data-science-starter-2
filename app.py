@@ -12,8 +12,7 @@ import pprint
 # SYS
 import sys
 
-# Import Pulp functions
-import pulp_functions
+
 
 # --------------------------------------------------------IMAGES AND FILES UPLOADS MANAGEMENT ---------------------------------------------------
 # Cloudinary settings using python code. Run before pycloudinary is used.

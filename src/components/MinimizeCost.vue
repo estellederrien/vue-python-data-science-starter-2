@@ -94,7 +94,7 @@
                                 </b-card>
                             </div>
                             <div class="col-lg-2">
-                                <b-button class="float-right" type="submit" variant="primary">Calculate solution with PULP</b-button>
+                                <b-button class="float-right" type="submit" variant="primary" disabled>Calculate solution with PULP</b-button>
                             </div>
                         </div>
                     </b-tab>
