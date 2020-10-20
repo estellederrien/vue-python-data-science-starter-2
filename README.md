@@ -19,7 +19,7 @@ Takes full advantage of back end and front end hot reloading .
 ## Full Commercial multilingual version : SolvGraph
 ![Screenshot](logo.png) <br>
 
-<b>Graphically Optimize your industrials profits, your portfolios or your blends, using Solvgraph, our app plugged to the pulp and/or gurobi linear solvers. Portfolio management, healthcare, transport,  and much more coming , even binPacking ... </b><br>
+<b>Graphically Optimize your industrials profits, your portfolios or your blends, using Solvgraph. Portfolio management, healthcare, transport,  and much more coming , even binPacking ... </b><br>
 
 Using graphicals linear templates makes it easy and cool to manage your factory production!<br>
 
@@ -38,18 +38,10 @@ What's available there is just the basical front end-back end system ... For fre
 
 10-05-2020 : Added Multilanguage support in 3 hours using this vue.js module : https://www.npmjs.com/package/vue-translate-plugin 
 
-09-28-2020 , The commercial version is available there :  https://solvgraph.herokuapp.com/ ,Please allow from 2 months to 2 years of developpement for a really nice app... Devs steps are adding a great flask middleware, IP and SESSIONS controlled DEMO limited times, making it easy and good looking, adding MonGoDb, and users sessions , Cruds, drag and drop, Google Login, multiples regressions cases , Multiple languages, and way much more . I'm looking to collab with 1 or more high level linear solver Dev too, please call.
 
 09-23-2020 Set the Python Pulp Lowbounds and Upbounds after the initialization : https://stackoverflow.com/questions/7728313/python-pulp-using-with-matrices -> add it to the app
 
-09-18-2020 : Next dev steps : Any item or constraint change will call the Dr Mitchell pulp linear solver in realtime with a realtime nice display (Using a small debounce) + Images uploading of course and items crud , yahoo ! 
-
 09-10-2020 : This project is now called SolvGraph, and hosted on another private depot , I will provide a link in the next days for app testing also available on my website : www.applicationsH.club.
-
-08-25-2020 : I will also add Gurobi. The back end currently looks ugly, but I will create a convert function, who will convert the front end json data to the well known list( decisions variables ) and dictionnaries ( constraints etc ...) needed by pulp <br>
-
-08-23-2020 : Building the fully parametrable LP builder is way harder than I thought ! So , I will first produce 8 statics commons linear programs examples (Fuel Blends, Productions...), and limit the dynamic L.P builder to 1 component, untill it works ! The dynamic L.P builder needs a hard data engineering process including dynamically named variables, eventually using (exec()) ,etc ...<br><br>
-08-22-2020 :  Currently studying how to make the food cost minimizer all dynamic and manageable from the front end, it is hard. It is the pulp_minimize_cost_1 function in app.py. N constraints or ingredients should be added from the front end... The  linear solver back end has to "understand it " automatically, it is the main difficulty of this linear solver starter.
 
 
 
@@ -67,9 +59,9 @@ What's available there is just the basical front end-back end system ... For fre
 
 ग्रेप लीनियर सॉलवर में प्लग किए गए एक पूर्ण स्टैक ऐप का उपयोग करके अपने औद्योगिक मुनाफे, अपने पोर्टफोलियो या अपने मिश्रणों का रेखांकन करें। पोर्टफोलियो मैनेजमेंट, हेल्थकेयर, ट्रांसपोर्ट, और भी बहुत कुछ, यहां तक ​​कि बिनपैकिंग (मुझे आशा है) <br><br>
 
-Optimisez vos bénéfices industriels, optimisez vos mélanges avec une application full stack connectée au solveur linéaire pulp ... <br>
+Optimisez vos bénéfices industriels, optimisez vos mélanges avec une application full stack <br>
  Optimisation de Mélanges alimentaires, portefeuilles boursier,  Remplissage de camions, soins de santé, problème du voyageur de commerce, Optimisation de production industrielle,transport et bien plus encore..<br><br>
-Vous pouvez le déployer automatiquement sur heroku en appuyant sur un seul bouton, pas besoin de configurer quoi que ce soit. Tirez pleinement parti du rechargement à chaud du back-end et du front-end. Veuillez patienter quelques jours pour que la démo démarre avec plus d'exemples de L.P. Mon autre objectif est d'utiliser éventuellement le glisser-déposer, pour manipuler le solveur linéaire PULP; De plus, rendez toute l'application dynamique et générique comme «Tableau», mais c'est beaucoup de travail et de capacités d'abstraction.<br><br>
+Vous pouvez le déployer automatiquement sur heroku en appuyant sur un seul bouton, pas besoin de configurer quoi que ce soit. Tirez pleinement parti du rechargement à chaud du back-end et du front-end. Veuillez patienter quelques jours pour que la démo démarre avec plus d'exemples de L.P. De plus, rendre toute l'application dynamique et générique comme «Tableau», mais c'est beaucoup de travail et de capacités d'abstraction.<br><br>
 
 Optimice sus ganancias industriales, optimice sus mezclas con una aplicación de pila completa conectada al solucionador de pulpa lineal ...<br><br>
 
@@ -89,7 +81,7 @@ Vue.js + Python Flask Backend Starter الجديد لتطبيقات علوم ا�
 I'm looking for a data science  - Pulp linear solver JOB - Full stack Vue.js -MongoDb/Mysql/Spark ... etc ..., please call me nicolas.huleux@mail.com
 
 ## Invest in this project
-I eventually need collaborators and investors, please contact me ( Commercials, Python PULP Linear devs, Gurobi devs , let's do THIS ). 
+I eventually need collaborators and investors, please contact me. 
 <br> <b>This is a nice potential project !</b>
 
 ## Discuss about some PULP linear solver problems  ... (English language)
@@ -106,7 +98,7 @@ Before all, clone this project on your computer, using SMARTGIT, then install th
 # Will automatically install the vue.js dependencies
 npm install 
 
-# Will automatically install the needed python libraries, including the pulp linear solver
+# Will automatically install the needed python libraries
 pip3 install -r requirements.txt 
 
 # If you have modules loading problems : 
@@ -149,10 +141,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## What's in files ?
 
-<b>APP.PY</b> : Contains The python flask server, the web services, and the linear optimisation functions ... I'll separate in multiples files later . It is basically the BACK END server. The data format will also become generic, allowing front end inserts, updates or various manipulations . <br>
+<b>APP.PY</b> : Contains The python flask server, the web services. It is basically the BACK END server. The data format will also become generic, allowing front end inserts, updates or various manipulations . <br>
 <b>\SRC</b> : This is where you develop the front end vue.js application, this is basically the FRONT END application. <br>
 <b>\DIST</b> : This is where the built appears when you type NPM RUN BUILD, This is the final front end vue.js app ready for production. It calls APP.PY very often.<br>
-<b>\LPS</b> : Linear programs resumes, generated by Python PULP.<br>
+
 
 ## Why vue.js ?
 Vue.js is so easy and simple to use and to understand ! The html template stays at the top, then you have the Js functions, and finally the css . Everything is clear, except in some rare components includes cases. Simply add scoped to the style part, to limit css to this component<br><br> 
@@ -161,12 +153,6 @@ Vue.js est trop facile à gérer et est bien structuré, la vue html est en haut
 ## Why python ?
 Python has so many libs dedicated to data science.
 
-## Why PULP ? 
-Because it is fantastic, it is Copyright Dr Stuart A. Mitchell<br>
-http://www.stuartmitchell.com/
-
-## Why a starter ?
-It is very convenient and easy to use the modern vue.js framework including bootstrap-vue , then send values to the python server as JSON.
 
 ## Auth and users management :
 
