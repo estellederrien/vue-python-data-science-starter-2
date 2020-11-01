@@ -32,6 +32,7 @@ Follow The full commercial version developpement there (Often updated) : https:/
 In dev, started 08-05-2020
 
 ## Latests news
+11-01-2020 : THis Route generator must be added  : https://github.com/RobusGauli/flask-restapi-gen
 10-15-2020 : All Code including the login-register code from Orange Petal, 
 the India based developper, is currently mooved to the SOLVGRAPH private commercial depot . 
 What's available there is just the basical front end-back end system ... For free ..
