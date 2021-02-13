@@ -23,7 +23,7 @@ Takes full advantage of back end and front end hot reloading .
 
 Using graphicals linear templates makes it easy and cool to manage your factory production!<br>
 
-Follow The full commercial version developement there (Often updated) : https://solvgraph.herokuapp.com/ 
+Follow The full commercial version developement there (Often updated) : http://solvgraph.com/ 
 
 
 
